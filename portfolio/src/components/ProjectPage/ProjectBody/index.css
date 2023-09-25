@@ -1,0 +1,11 @@
+.container-project {
+    color: #fff;
+    height: 80vh;
+    border: black solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: radial-gradient(rgb(60,60,60),rgb(48,48,48),rgb(36,36,36),rgb(24,24,24),rgb(12,12,12),black);
+
+}

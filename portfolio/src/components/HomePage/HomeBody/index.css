@@ -1,0 +1,33 @@
+.body {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    border: black solid 1px;
+    line-height: 0px;
+    height: 80vh;
+    padding-left: 15%;
+
+    /* background image */
+    background-image: url('https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430879.jpg?size=626&ext=jpg&ga=GA1.1.1144080318.1681188117&semt=ais');
+    background-size: cover;
+}
+
+.para1 {
+    font-size: 22px;
+}
+.para2 {
+    font-size: 28px;
+}
+.para3 {
+    font-size: 36px;
+}
+.para4 {
+    font-size: 14px;
+}
+
+.hignlight {
+    color: #B30E16;
+    margin: 0px;
+}

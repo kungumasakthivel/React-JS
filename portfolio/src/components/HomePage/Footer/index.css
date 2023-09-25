@@ -1,0 +1,9 @@
+.footer {
+    height: 10vh;
+    border: solid 1px black;
+    background-image: radial-gradient(rgb(29, 28, 28),rgb(21, 20, 20), rgb(16, 14, 14), Black);
+}
+
+i {
+    color: white;
+}

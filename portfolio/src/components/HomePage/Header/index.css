@@ -1,0 +1,19 @@
+* {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.header {
+    color: white;
+    border: 1px black solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: radial-gradient(rgb(29, 28, 28),rgb(21, 20, 20), rgb(16, 14, 14), Black);
+}
+
+.sub-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
