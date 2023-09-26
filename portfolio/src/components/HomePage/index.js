@@ -1,10 +1,10 @@
-import { Component } from "react";
+import React from "react";
 // import Header from "./Header";
 import HomeBody from "./HomeBody";
 import Footer from "./Footer";
 
-class HomePage extends Component {
-    render() {
+function HomePage()  {
+
         return (
             <>
                 {/* <Header/> */}
@@ -13,6 +13,5 @@ class HomePage extends Component {
             </>
         )
     }
-}
 
 export default HomePage
