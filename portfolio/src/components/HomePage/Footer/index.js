@@ -1,10 +1,9 @@
-import { Component } from "react";
+import React from "react";
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.css'
 
-class Footer extends Component {
-    render() {
-        return (
+function Footer() {
+    return (
             <div className="footer">
                 <div></div>
                 <div>
@@ -12,7 +11,5 @@ class Footer extends Component {
                 </div>
             </div>
         )
-    }
 }
-
 export default Footer
