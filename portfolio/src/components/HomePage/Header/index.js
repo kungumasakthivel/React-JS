@@ -1,11 +1,10 @@
-import {Component} from 'react';
+import React from 'react';
 import './index.css'
 import {Link} from 'react-router-dom'
 
-class Header extends Component {
 
-    render() {
-        return(
+function Header() {
+    return(
         <nav>
         <div className='header'>
             
@@ -22,7 +21,6 @@ class Header extends Component {
         </div>
         </nav>
         )
-    }
 }
 
 export default Header
